@@ -66,3 +66,29 @@ one-on-one-chat-application/
 python server.py
 
 Server started. Waiting for clients...
+
+python client.py
+
+Enter a unique username when prompted.
+
+Step 3: Start Chatting
+
+Enter the recipient’s username
+
+Type the message
+
+Messages are delivered instantly if the user is online
+
+🧠 Concepts Demonstrated
+
+Client–server architecture
+
+TCP socket communication
+
+Concurrent request handling using threads
+
+Stateful backend design
+
+Message routing and protocol handling
+
+Error handling and connection lifecycle management
